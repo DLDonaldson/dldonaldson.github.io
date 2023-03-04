@@ -21,10 +21,10 @@
 title: Personal Website Dr Daniel Donaldson
 email: d.l.donaldson@bham.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website! I am an Assistant Professor at the University of Birmingham
-  working in the area of electrical power system resilience. 
+  Assistant Professor at the University of Birmingham
+  working in the area of electrical power system resilience.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://dldonaldson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DDonaldsonECE
 github_username:  DLDonaldson
 
