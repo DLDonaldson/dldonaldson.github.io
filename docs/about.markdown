@@ -9,5 +9,5 @@ I graduated with a BSc in Electrical and Computer Engineering (Summa Cum Laude) 
 In 2018, I left SCE to pursue a PhD in Electrical Engineering from the University of Birmingham, where my research focused on resilience assessment of electrical power systems with wildfires and low-carbon technologies. After completing my PhD in 2022 I took up the post of Assistant Professor at the University of Birmingham.
 
 You can learn more about me at the following:
-[UoB Staff Website][https://www.birmingham.ac.uk/schools/engineering/eese/people/navigation.aspx?ReferenceId=198542&Name=dr-daniel-donaldson] /
+[UoB Staff Website](https://www.birmingham.ac.uk/schools/engineering/eese/people/navigation.aspx?ReferenceId=198542&Name=dr-daniel-donaldson) /
 [LinkedIn](https://www.linkedin.com/in/danieldonaldson1/)
