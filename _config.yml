@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Daniel L. Donaldson"
-  avatar           : "profile2.jpg"
-  bio              : "Resilience - Forecasting - Distribution System Planning"
+  avatar           : "DonaldsonD.png"
+  bio              : "Resilient Systems - Climate Action - Machine Learning - Distribution System Planning"
   location         : "Birmingham, UK"
-  employer         :
+  employer         : "University of Birmingham"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=c9nJoxkAAAAJ&hl=en"
-  email            :
+  email            : "d.l.donaldson@bham.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/danieldonaldson1/"
   orcid            : "https://orcid.org/0000-0003-3419-3624"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "DDonaldsonECE"
+  twitter          : #"DDonaldsonECE"
   vine             :
   weibo            :
   xing             :
